@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ITSONLINEBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "smpublicacademy.aternos.me",
+    "port": 21626,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -34,18 +34,19 @@
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
+        "I am bot makes this smp online"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 200,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 89,
       "speed": 3000
     },
     "look-around": {
